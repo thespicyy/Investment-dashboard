@@ -9,5 +9,4 @@ Simply upload this file to your power bi app and load your data as it is used in
 
 (numbers are generated randomly)
 
-Thank you,<br>
 Rémy
